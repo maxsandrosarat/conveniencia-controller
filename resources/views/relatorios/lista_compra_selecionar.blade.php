@@ -31,7 +31,7 @@
                         <div class="input-group mb-3">
                             <input id="input-prodEx" type="text" class="form-control" name="produtoExtra" placeholder="Adicionar Produto Extra">
                             <div class="input-group-append">
-                                <button id="botao-add-prod" class="btn btn-success btn-sm" type="button" data-toggle="tooltip" data-placement="bottom" title="Adicionar Produto" onclick="adicionarProduto()"><i class="material-icons white">add_circle</i></button>
+                                <button id="botao-add-prod" class="btn btn-success btn-sm" type="button" data-toggle="tooltip" data-placement="bottom" title="Adicionar Produto" onclick="adicionarProdutoEx()"><i class="material-icons white">add_circle</i></button>
                             </div>
                         </div>
                         <br/>

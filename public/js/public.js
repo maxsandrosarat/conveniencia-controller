@@ -387,7 +387,7 @@ $(document).on('change', '#cliente', function(){
         });
     });
 
-    function adicionarProduto(){
+    function adicionarProdutoEx(){
         var prod = $('#input-prodEx').val();
         s = "";
         s = '<li class="list-group-item list-group-item-action d-flex justify-content-between align-items-center">' +
